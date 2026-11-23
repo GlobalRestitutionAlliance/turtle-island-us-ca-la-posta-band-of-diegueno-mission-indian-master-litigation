@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+LA+POSTA+BAND+OF+DIEGUENO+MISSION+INDIAN",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+LA+POSTA+BAND+OF+DIEGUENO+MISSION+INDIAN",
+  "title": "Federal Register - CA LA POSTA BAND OF DIEGUENO MISSION INDIAN",
+  "fetched_at": "2026-11-23T17:57:36.902177Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 257154,
+  "sha256": "e1774c31c92eee19950846302a112b481ded261e1cfd9635197908664ddb4bc7",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
